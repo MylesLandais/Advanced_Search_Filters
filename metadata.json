@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Advanced Search",
+  "description": "A high-performance, faceted search interface inspired by Scryfall and Gelbooru. Features tag-based filtering, boolean entity search, and AI-powered natural language query parsing.",
+  "requestFramePermissions": []
+}
